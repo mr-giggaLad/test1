@@ -1,0 +1,18 @@
+{
+  "name": "drawoff",
+  "version": "1.0.0",
+  "description": "The Ultimate Dumb Drawing Battle Arena - A funny drawing voting app",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "cd server && npm start",
+    "dev": "cd server && npm install nodemon && npm run dev",
+    "install-all": "cd server && npm install"
+  },
+  "keywords": ["drawing", "voting", "funny", "game", "web-app"],
+  "author": "Funny Dumb Guy and Bros",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/drawoff"
+  }
+}
